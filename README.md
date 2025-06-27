@@ -18,7 +18,7 @@
 
 ### 1. Клонирование репозитория
 
-```bash
+
 git clone https://github.com/LinkIvan13/rostagro_forecast.git
 cd rostagro_forecast
 
