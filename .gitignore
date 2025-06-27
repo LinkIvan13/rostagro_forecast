@@ -1,0 +1,8 @@
+# .gitignore
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.env
+.venv/
+data/*.csv
+data/*.xlsx
