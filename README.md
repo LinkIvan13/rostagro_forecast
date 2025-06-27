@@ -47,7 +47,7 @@ jupyter notebook
 
 ## 📺 Видео-демонстрация
 
-🔗 [Посмотреть видео-демонстрацию на Google.Диске](https://drive.google.com/file/d/12EKBdrr6maai9wEN-fTsLLUfGZhSBONZ/view?usp=sharing)
+🔗 [Посмотреть видео-демонстрацию на Google.Диске](https://drive.google.com/file/d/12EKBdrr6maai9wEN-fTsLLUtGZhSBONZ/view?usp=sharing)
 
 ---
 
